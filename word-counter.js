@@ -15,5 +15,4 @@ textarea.addEventListener("input", function () {
         return elm != "";
     });
     word.innerHTML = cleanlist.length;
-
 });
